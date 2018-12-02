@@ -1,1 +1,2 @@
 # Projeto-Redes-Neurais
+Grupo: Fernando Rangel Magalhães (frm2), Lucas Cavalcanti de Siqueira Leite (lcsl), Luiz Felipe de Barros Jordão Costa (lfbjc), Rodrigo Monteiro de Moraes de Arruda Falcão (rmmaf)
